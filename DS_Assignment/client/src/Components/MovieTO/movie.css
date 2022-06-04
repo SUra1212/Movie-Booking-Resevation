@@ -1,0 +1,49 @@
+
+.video {
+    display: flex;
+    justify-content: center;
+
+}
+.Fname{ 
+    margin-left: 20%;
+    margin-top: -24%;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+.Flanguage{   
+    margin-left: 20%;
+    margin-top: 0.1%;
+}
+.Ftype{
+    margin-left: 20%;
+    margin-top: 0.1%; 
+}
+.Fdate{
+    margin-left: 20%;
+    margin-top: 0.1%; 
+}
+.card2{
+    margin-left: 17%;
+    margin-top: 5%;
+}
+.mto{
+    color: black;
+    font-weight: bolder;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+.Mimg{
+    margin-left: 3%;
+    margin-top: -13%;
+}
+.tbb{
+    margin-left: 85%;
+    margin-top: 1%;
+}
+.anm{
+    font-family: Copperplate, Papyrus, fantasy;
+    color: black;
+    font-weight: bolder;
+}
+.card21{
+    margin-left: 24%;
+    margin-top: 10%;
+}
